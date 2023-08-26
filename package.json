@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-course-rust-for-javascript-developers-eve-porcello",
+  "version": "0.0.0",
+  "description": "This repo has been created to explore ideas presented in the course available on LinkedIn at [https://www.linkedin.com/learning/rust-for-javascript-developers/learning-rust-from-scratch](https://www.linkedin.com/learning/rust-for-javascript-developers/learning-rust-from-scratch) - originally released on Friday, July 7th, 2023.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/linkedin-course-rust-for-javascript-developers-eve-porcello.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/linkedin-course-rust-for-javascript-developers-eve-porcello/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/linkedin-course-rust-for-javascript-developers-eve-porcello#readme"
+}
